@@ -10,4 +10,4 @@
     
 </body>
 
-https://33316.hosts1.ma-cloud.nl/web/
+https://33316.hosts1.ma-cloud.nl
